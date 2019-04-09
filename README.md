@@ -5,4 +5,6 @@
 设计模式地址 https://gof.quanke.name/
 
 LeetCode地址 https://leetcode-cn.com/problemset/all/
+
+wx开发：https://github.com/Wechat-Group/WxJava
 # ky.bai
